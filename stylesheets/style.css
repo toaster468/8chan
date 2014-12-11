@@ -31,6 +31,12 @@ p.intro a.post_no {
   color: inherit;
 }
 
+a.post_anchor{
+    display: block;
+    position: relative;
+    top: -24px;
+}
+
 p.intro a.post_no,p.intro a.email,p.intro a.post_anchor {
   margin: 0;
 }
